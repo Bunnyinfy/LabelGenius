@@ -1,9 +1,7 @@
-Here’s a detailed **README.md** file for your **Label Genius** project:
 
-```markdown
 # Label Genius
 
-**Label Genius** is a decentralized marketplace designed for data labeling, where organizations can upload datasets for labeling, and workers (typically from developing nations) can complete the labeling tasks and receive payments upon completion. The platform utilizes blockchain technology for transparent and secure payment transactions, ensuring fairness and efficiency in the labeling process.
+**Label Genius**  is a decentralized marketplace designed for data labeling, where organizations can upload datasets for labeling, and workers (typically from developing nations) can complete the labeling tasks and receive payments upon completion. The platform utilizes blockchain technology for transparent and secure payment transactions, ensuring fairness and efficiency in the labeling process.
 
 ---
 
