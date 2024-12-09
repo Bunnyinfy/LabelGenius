@@ -130,7 +130,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 For inquiries, suggestions, or feedback:
 - Email: penugondasrinivas20@gmail.com
-- 
+
 
 ---
 
