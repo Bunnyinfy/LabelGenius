@@ -18,7 +18,7 @@
 ## 🛠️ Technology Stack
 
 ### Frontend
-- **React.js**: For building a responsive and user-friendly interface.
+- **Next.js**: For building a responsive and user-friendly interface.
 - **Tailwind CSS**: For styling and enhancing the user experience.
 
 ### Backend
